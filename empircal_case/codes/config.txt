@@ -1,0 +1,12 @@
+algorithm_name: RNSGA2
+test_problem: ZDT1
+problem_param:
+number_variable 30
+number_objective 2
+popSize: 100
+max_evaluation: 20000
+runtime_output: 1
+output_interval: 10
+run_index_begin: 1
+run_index_end: 1
+analyse: FUN

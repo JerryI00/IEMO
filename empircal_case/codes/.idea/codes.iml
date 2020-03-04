@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/config.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/analyse/analyse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/analyse/plot.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/indicators/hv.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/indicators/igd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/indicators/gd.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/spea2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/pbea.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/nsga2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/Rnsga2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/moead_stm_dra.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/smsemoa.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/moead.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/moead_dra.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/R-MEAD2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/r2nsga2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/hype.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/gnsga2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/nsga3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/moead_stm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metaheuristics/ibea.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/IWFG/read.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/IWFG/iwfg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/IWFG/iwfg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/WFG_1.15/wfg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/WFG_1.15/read.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/externals/WFG_1.15/wfg.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/crossover_steadystate.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/crossover_moead.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/crossover_spea2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/differential_evolution.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/sbx.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/crossover/crossover_nsga2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/mating/tournament_selection.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/mating/moead_mating.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/mutation/mutation_real.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reproduction/mutation/polymut.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/CDTLZ/C1DTLZ1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/CDTLZ/C1DTLZ3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/CDTLZ/C3DTLZ1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/CDTLZ/C3DTLZ4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/CDTLZ/C2DTLZ2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG6.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/toolkit.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/toolkit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG9.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG7.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG4x.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/WFG/WFG8.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/ZDT/ZDT1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/ZDT/ZDT4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/ZDT/ZDT3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/ZDT/ZDT6.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/ZDT/ZDT2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ7.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ6.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/DTLZ/DTLZ2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/evaluation.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF9.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF7.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF3.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF10.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF8.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF6.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testproblem/UF/UF2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/population.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/g_evaluate.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/initialization.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/dominance.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/list.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/vector.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/rand.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/memory.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/rank_sort.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/print.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/utility.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/global.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/problems.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/reproduction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/population.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/metaheuristics.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/vector.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/analyse.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/indicators.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/dominance.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/selection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/print.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/initialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/memory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/rank_sort.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/rand.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/header/utility.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/moead_stm/stm_selection.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/moead_stm/utility.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/nsga2/qsort.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/nsga2/crowddist.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/nsga2/fillnds.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/smsemoa/fillnds_hv.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/spea2/spea2_selection.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/moead/fitness.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/moead/utility.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/moead/update.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/hype/fill.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/ibea/fitness.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selection/ibea/ibea_selection.c" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
