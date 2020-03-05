@@ -1,0 +1,10 @@
+# ignore the CLion debug folder
+cmake-build-debug/
+out/
+*~
+# ideaJ file
+.idea
+Samaritan
+*.exe
+*.stackdump
+*.DS_store
